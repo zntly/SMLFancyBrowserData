@@ -10,7 +10,7 @@
  3. Go to `browserdata.json`, and add an entry for the new mod
 	 - `Name` and `DisplayName` should be the name of the mod (both the same)
 	 - `Authors` should be a list of the Town of Salem 2 usernames of the developers. If one of the developers doesn't actually have an account in the game they developed a mod for, ~~what the fu~~ just use their name and it should be fine.
-	 - `AuthorIDs` should be a list of the Discord users of the developers. If one of the developers doesn't use Discord, just omit them or something I literally don't even know where this shows in-game
+	 - `AuthorIDs` should be a list of the Discord user IDs of the developers. If one of the developers doesn't use Discord, just omit them or something I literally don't even know where this shows in-game
 	 - `HarmonyID` should be the Harmony ID of the mod
 	 - `Version` should be the version number, considering you're adding a new mod to the repository this is likely just "1.0.0" but it could be something else
 	 - `DLLName` should be the name of the DLL that you added to `/mods/`. Not a full path, just the name of the DLL with the file extension
