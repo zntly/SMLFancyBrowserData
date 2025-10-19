@@ -10,7 +10,7 @@
     ],
     "Description": "Player Notes will now show claims you put into it next to their name.",
     "HarmonyID": "synapsium.notes.plus",
-    "Version": "1.0.6",
+    "Version": "1.0.7",
     "DLLName": "NotesPlus.dll",
     "ThumbnailPath": "synapsium.notes.plus.png",
     "ExcludePlatform": "",
