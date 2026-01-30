@@ -1,5 +1,26 @@
 [
   {
+    "Name": "Aprilgen",
+    "DisplayName": "Aprilgen",
+    "Authors": [
+      "Loonie"
+    ],
+    "AuthorIDs": [
+      663794242531098635
+    ],
+    "Description": "Adds randomized role list generation to Custom!",
+    "HarmonyID": "loonie.aprilgen",
+    "Version": "1.0.0",
+    "DLLName": "Aprilgen.dll",
+    "ThumbnailPath": "loonie.aprilgen.png",
+    "ExcludePlatform": "",
+    "PublishTime": 1769752800,
+    "DownloadCount": 1,
+    "Outdated": false,
+    "Banned": false,
+    "Pending": false
+  },
+  {
     "Name": "Player Notes+",
     "DisplayName": "Player Notes+",
     "Authors": [
@@ -60,7 +81,7 @@
     "ExcludePlatform": "",
     "PublishTime": 1753076614,
     "DownloadCount": -3,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false,
     "Pending": false
   },
