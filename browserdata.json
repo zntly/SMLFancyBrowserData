@@ -54,7 +54,7 @@
     ],
     "Description": "Allows you to customize the sky on all your maps, with bonus settings such as syncing to realtime",
     "HarmonyID": "curtis.day.night.sync",
-    "Version": "3.0.1",
+    "Version": "3.0.2",
     "DLLName": "DayNight.dll",
     "ThumbnailPath": "curtis.day.night.sync.png",
     "ExcludePlatform": "",
