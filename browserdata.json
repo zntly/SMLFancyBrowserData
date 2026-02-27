@@ -155,5 +155,22 @@
     "Outdated": false,
     "Banned": false,
     "Pending": false
+  },
+  {
+    "Name": "Misc Role Customisation",
+    "DisplayName": "Misc Role Customisation",
+    "Authors": ["Det"],
+    "AuthorIDs": [498033671819886614],
+    "Description": "A branch of colour swapper that allows you to change various visual things about roles.",
+    "HarmonyID": "det.rolecustomizationmod",
+    "Version": "1.0.2",
+    "DLLName": "MiscRoleCustomisation.dll",
+    "ThumbnailPath": "det.rolecustomizationmod.png",
+    "ExcludePlatform": "",
+    "PublishTime": 1726074076,
+    "DownloadCount": 0,
+    "Outdated": true,
+    "Banned": false,
+    "Pending": false
   }
 ]
