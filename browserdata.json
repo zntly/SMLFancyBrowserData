@@ -223,5 +223,22 @@
     "Outdated":false,
     "Banned":false,
     "Pending":false
+  },
+  {
+    "Name":"Faction Visits",
+    "DisplayName":"Faction Visits",
+    "Authors":["Pokegustavo"],
+    "AuthorIDs":[223091956731871232],
+    "Description":"Shows who your faction allies are visiting during the night",
+    "HarmonyID":"pokegustavo.FactionVisits",
+    "Version":"1.1.1",
+    "DLLName":"TOSTeamVisitsIcons.dll",
+    "ThumbnailPath":"pokegustavo.FactionVisits.png",
+    "ExcludePlatform":"",
+    "PublishTime":1776107865,
+    "DownloadCount":0,
+    "Outdated":false,
+    "Banned":false,
+    "Pending":false
   }
 ]
