@@ -231,7 +231,7 @@
     "AuthorIDs":[223091956731871232],
     "Description":"Shows who your faction allies are visiting during the night",
     "HarmonyID":"pokegustavo.FactionVisits",
-    "Version":"1.1.1",
+    "Version":"1.1.3",
     "DLLName":"TOSTeamVisitsIcons.dll",
     "ThumbnailPath":"pokegustavo.FactionVisits.png",
     "ExcludePlatform":"",
