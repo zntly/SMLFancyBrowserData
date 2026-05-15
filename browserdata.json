@@ -10,7 +10,7 @@
     ],
     "Description": "Adds randomized role list generation to Custom!",
     "HarmonyID": "loonie.aprilgen",
-    "Version": "1.2.0",
+    "Version": "1.2.01",
     "DLLName": "Aprilgen.dll",
     "ThumbnailPath": "loonie.aprilgen.png",
     "ExcludePlatform": "",
