@@ -252,13 +252,55 @@
   ],
   "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
   "HarmonyID": "JAN.soundpacks",
-  "Version": "3.0.0",
+  "Version": "3.0.1",
   "DLLName": "SoundpackModTheSequel.dll",
   "ThumbnailPath": "JAN.soundpacks.png",
   "ExcludePlatform": "",
   "PublishTime": 1713432600,
   "DownloadCount": 0,
-  "Outdated": true,
+  "Outdated": false,
+  "Banned": false,
+  "Pending": false
+ },
+  {
+  "Name": "Favorite n Random Cosmetics",
+  "DisplayName": "Favorite n Random Cosmetics",
+  "Authors": [
+    "JustAnotherNoob"
+  ],
+  "AuthorIDs": [
+    326143405627408385
+  ],
+  "Description": "Allows for the easy randomization of only certain cosmetics through the favorite system, just right-click them in the Personalize page. Also allowing to only randomize the categories you want.",
+  "HarmonyID": "JAN.favoritenrandom",
+  "Version": "1.1.2",
+  "DLLName": "FavoriteNRandomCosmetics2.dll",
+  "ThumbnailPath": "JAN.favoritenrandom.png",
+  "ExcludePlatform": "",
+  "PublishTime": 1713432600,
+  "DownloadCount": 0,
+  "Outdated": false,
+  "Banned": false,
+  "Pending": false
+ },
+  {
+  "Name": "Fun Facts",
+  "DisplayName": "Fun Facts",
+  "Authors": [
+    "JustAnotherNoob"
+  ],
+  "AuthorIDs": [
+    326143405627408385
+  ],
+  "Description": "This mod replaces the boring loading tips with exciting fun facts!",
+  "HarmonyID": "JAN.funfacts",
+  "Version": "3.0.0",
+  "DLLName": "FunFacts.dll",
+  "ThumbnailPath": "JAN.funfacts.png",
+  "ExcludePlatform": "",
+  "PublishTime": 1713432600,
+  "DownloadCount": 0,
+  "Outdated": false,
   "Banned": false,
   "Pending": false
  }
